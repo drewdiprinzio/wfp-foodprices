@@ -13,7 +13,7 @@ A set of R tools for analyzing the "Global Food Prices Database" maintained by t
 # Description of Repository:
 
 ### Overview ###
-The primary goal of the analysis is to identify pairs of countries for which price returns for the same commodity are highly-correlated. If the same crop follows similar price patterns in two coutnries, we could infer that the markets of these two countries are fairly integrated.<br/>
+The primary goal of the analysis is to identify pairs of countries for which price returns for the same commodity are highly-correlated. If the same crop follows similar price patterns in two coutnries, we could infer that the markets of these two countries are fairly integrated.<br/><br/>
 One caveat is that food prices in this dataset are listed in local currencies. Due to this, we are also implicitly measuring whether the currencies of two countries are moving in tangent, which is actually helpful for measuring the extent to which country-crop markets are integrated, particularly if a producer or consumer is searching for substitutable markets.
 
 ### Data ###
