@@ -22,5 +22,5 @@ One caveat is that food prices in this dataset are listed in local currencies. D
 ### Code ###
 1. Import and Clean Dataset
 2. Correlation of Prices for Country-Crop Pairs
-3. Charting Price Returns for Country-Crop Pairs
+3. Charting Price Returns for Country-Crop Pairs (return distributions, indexed returns, and scatterplot)
 4. Indian state prices
