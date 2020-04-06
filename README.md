@@ -10,6 +10,11 @@ A set of R tools for analyzing the "Global Food Prices Database" maintained by t
   (The csv will be called 'wfpvam_foodprices.csv' when downloaded.)
 <br/><br/>
 
+# Sample Analysis:
+![](images/monthly_prices_compared_to_national_average.jpg)
+
+![](images/leaflet_snip.jpg)
+
 # Description of Repository:
 
 ### Overview ###
