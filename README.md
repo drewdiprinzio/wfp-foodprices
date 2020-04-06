@@ -2,7 +2,7 @@
 A set of R tools for analyzing the "Global Food Prices Database" maintained by the World Food Programme.
 
 # Description of Dataset:
-  This dataset contains Global Food Prices data from the World Food Programme covering foods such as maize, rice, beans, fish, and sugar for 76 countries and some 1,500 markets. It is updated weekly but contains to a large extent monthly data. The data goes back as far as 1992 for a few countries, although many countries started reporting from 2003 or thereafter. (humdata.org)
+  This dataset contains Global Food Prices data from the World Food Programme with over 1 million entries covering foods such as maize, rice, beans, fish, and sugar for 76 countries and some 1,500 markets. It is updated weekly but contains to a large extent monthly data. The data goes back as far as 1992 for a few countries, although many countries started reporting from 2003 or thereafter. (humdata.org)
 <br/><br/>
 <b>Link:</b>
   https://data.humdata.org/dataset/wfp-food-prices
