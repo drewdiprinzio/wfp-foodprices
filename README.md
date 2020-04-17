@@ -18,8 +18,9 @@ A set of R tools for analyzing the "Global Food Prices Database" maintained by t
 # Description of Repository:
 
 ### Overview ###
-The primary goal of the analysis is to identify pairs of countries for which price returns for the same commodity are highly-correlated. If the same crop follows similar price patterns in two coutnries, we could infer that the markets of these two countries are fairly integrated.<br/><br/>
-One caveat is that food prices in this dataset are listed in local currencies. Due to this, we are also implicitly measuring whether the currencies of two countries are moving in tangent, which is actually helpful for measuring the extent to which country-crop markets are integrated, particularly if a producer or consumer is searching for substitutable markets.
+There are two main analyses performed on this dataset:
+1. Files (2) and (3) focus on identifying pairs of countries for which price returns for the same commodity are highly-correlated, and create a ranking of every country-crop pair with at least X months of data. If the same crop follows similar price patterns in two coutnries, we can infer that the markets of these two countries are fairly integrated. The findings show that the most correlations country-crop markets are neighboring countries. One should note that food prices in this dataset are listed in local currencies. Due to this, we are also implicitly measuring whether the currencies of two countries are moving in tangent, which is actually helpful for measuring the extent to which country-crop markets are integrated, particularly if a producer or consumer is searching for substitutable markets.<br/>
+2. File (4) merges data from Wikipedia to aggregate prices in Indian regional markets to states, and present analyses comparing these state prices to the national average.  These are the tables shown above.<br/>
 
 ### Data ###
 1. World Food Programme - Global Food Prices Database
