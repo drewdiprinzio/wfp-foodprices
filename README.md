@@ -11,9 +11,15 @@ A set of R tools for analyzing the "Global Food Prices Database" maintained by t
 <br/><br/>
 
 # Sample Analysis:
+
+See [here](https://github.com/drewdiprinzio/wfp-foodprices/blob/master/pdf/Highly%20Correlated%20Crop%20Pairs%20-%20WFP%20Data.pdf) for a report on correlated crop pairs between countries.  
+
+In addition, the images below show several results from analyzing rice prices in Indian states:
+
 ![](images/monthly_prices_compared_to_national_average.jpg)
 
 ![](images/leaflet_snip.jpg)
+
 
 # Description of Repository:
 
